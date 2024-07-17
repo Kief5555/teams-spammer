@@ -1,4 +1,5 @@
 ```Welcome to the Microsoft teams spammer.```
+#### Educational purposes only.
 
 Usage: 
 
